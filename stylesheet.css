@@ -189,9 +189,10 @@ nav li:first-child {
 .news-list .item .title{
   margin: 0;
   width: 100%;
+  color: #AAAAAA;
 }
 .news-list .item a:hover .title{
-  color: #AAAAAA;
+  color: #EEEEEE;
 }
 
 @media screen and (max-width: 767px){
