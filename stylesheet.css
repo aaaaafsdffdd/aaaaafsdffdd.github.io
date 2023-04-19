@@ -168,7 +168,7 @@ nav li:first-child {
 .news-list .item .date{
   margin: 0;
   min-width: 100px;
-  font-size: 10px;
+  font-size: 15px;
   color: #999;
   padding: 0 15px 0 0;
 }
@@ -183,7 +183,7 @@ nav li:first-child {
   text-align: center;
   display: inline-block;
   padding: 5px 15px;
-  font-size: 10px;
+  font-size: 13px;
   line-height: 1;
 }
 .news-list .item .title{
@@ -191,7 +191,7 @@ nav li:first-child {
   width: 100%;
 }
 .news-list .item a:hover .title{
-  color: #00F;
+  color: #EEEEEE;
 }
 
 @media screen and (max-width: 767px){
