@@ -150,8 +150,8 @@ nav li:first-child {
 
 .news-list{
   list-style: none outside;
-  margin: 5px;
-  padding: 5px;
+  margin: 10px;
+  padding: 0px;
 }
 .news-list .item a{
   display: flex;
