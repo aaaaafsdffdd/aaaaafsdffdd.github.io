@@ -148,6 +148,8 @@ nav li:first-child {
 	font-size: 16px;
 }
 
+
+/* ニュース */
 .news-list{
   list-style: none outside;
   margin: 10px;
@@ -206,8 +208,6 @@ nav li:first-child {
   margin-top: 10px;
 }
 }
-
-/* 装飾 */
  
 *{
   box-sizing: border-box;
@@ -217,4 +217,26 @@ a{
 }
 body{
   margin: 20px;
+}
+
+
+/*アニメーション*/
+.fadeIn {
+animation-name: fadeInAnime;
+animation-fill-mode:backwards;
+animation-duration:3s;
+animation-iteration-count:infinite;
+animation-timing-function:ease;
+animation-delay: 0.5s;
+animation-direction:normal;
+}
+
+@keyframes fadeInAnime{
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
