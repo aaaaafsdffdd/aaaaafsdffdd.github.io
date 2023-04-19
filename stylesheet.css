@@ -10,12 +10,12 @@ body {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-	color: #fff;
-	background-color: #1f1f1f;
+	color: #333;
+	background-color: #fff;
 }
 
 a {
-	color: #fff;
+	color: #333;
 	text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ ul {
 
 header {
 	height: 64px;
-	background-color: #2b2b2b;
+	background-color: #fff;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
