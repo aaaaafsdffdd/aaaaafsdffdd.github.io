@@ -224,7 +224,6 @@ body{
 .fadeIn {
 animation-name: fadeInAnime;
 animation-fill-mode:backwards;
-animation-duration:3s;
 animation-iteration-count:infinite;
 animation-timing-function:ease;
 animation-delay: 0.5s;
