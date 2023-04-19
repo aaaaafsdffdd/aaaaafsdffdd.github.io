@@ -1,0 +1,19 @@
+/* Reset CSS */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #1f1f1f;
+}
+
+a {
+	color: #fff;
+	text-decoration:
